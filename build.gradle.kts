@@ -11,8 +11,6 @@ repositories {
 }
 
 dependencies {
-    implementation(kotlin("stdlib"))
-
     // Testing dependencies
     testImplementation(kotlin("test"))
     testImplementation("org.junit.jupiter:junit-jupiter:5.9.3")
